@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**dawershakir1-ctrl/Dawershakir1-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dawer Shakir 👋
 
-Here are some ideas to get you started:
+### BSCS Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in software development, problem solving, and building practical applications.
+
+## Currently Learning
+- C++
+- JavaScript
+- HTML & CSS
+- Node.js
+- PostgreSQL
+
+## Goals
+- Build real-world projects
+- Improve problem-solving skills
+- Learn Full-Stack Development
+- Contribute to open-source projects
+
+## Connect With Me
+- GitHub: https://github.com/dawershakir1-ctrl
